@@ -1,2 +1,7 @@
 temperatura
+<<<<<<< HEAD
 dados.txt
+=======
+*.o
+*.out
+>>>>>>> 82b06efb0d2a529731d67d1c4dc5c8e08b888710
